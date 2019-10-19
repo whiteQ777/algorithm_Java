@@ -1,37 +1,35 @@
-package com.sort;
+package review;
 
 /**
- * @Classname QuickSort
+ * @Classname review001
  * @Description TODO
- * @Date 2019/10/18 20:45
+ * @Date 2019/10/19 20:14
  * @Created by HeYu5
  */
-public class QuickSort {
-
+public class review001 {
     public static void quickSort(int[] s, int l, int r){
-        if (l < r){
+        if(l < r){
             int i = l, j = r, x = s[l];
             while (i < j){
-                while (i < j && s[j] >= x){           //从后向前找比x小的数
+                while ( i < j && s[j] >= x ){
                     j--;
                 }
-                if(i < j)
-                    {s[i++] = s[j];}         //先把s[j]放入s[i]中， 然后i++
+                if(i <j ){
+                    s[i++] = s[j];
+                }
 
-                while (i < j && s[i] < x){                 //从前向后找比x大的数
+                while(i < j && s[i] < x){
                     i++;
                 }
-                if (i < j)  {
+                if (i < j){
                     s[j--] = s[i];
                 }
             }
-            s[i] = x;    // 这句不要忘记了
-            quickSort(s, l, i-1);   //递归调用
+            s[i] = x;
+            quickSort(s, l, i-1);
             quickSort(s, i+1, r);
         }
-
     }
-
 
     public static void main(String[] args) {
         int[] s = new int[]{72,6,57,88,60,42,83,73,48,85};
@@ -39,7 +37,5 @@ public class QuickSort {
         for(int i = 0 ; i < s.length; i++){
             System.out.print(s[i] + " ");
         }
-
     }
-
 }
