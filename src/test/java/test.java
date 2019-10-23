@@ -5,8 +5,8 @@
  * @Created by HeYu5
  */
 public class test {
-
+    Integer a = Integer.valueOf(100);
+    int b = a.intValue();
 }
-
 
 

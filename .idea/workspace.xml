@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28d1dfa6-14b3-4fcf-b139-d3fd694a9b7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据结构/BitSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据结构/EnumerationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据结构/HashTableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据结构/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据结构/PrpertiesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据结构/StackDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/数据结构/VectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/HungerSingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/LazySingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/剑指offer/T003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/泛型/FanXing001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/泛型/FanXing002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/泛型/Fanxing003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/泛型/Fanxing004.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,26 +33,26 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="20" />
+          <entry key="java" value="30" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="30" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="4987" />
+          <entry key="java" value="7469" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4987" />
+          <entry key="JAVA" value="7469" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -60,92 +61,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/EnumerationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#331#339#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/BitSetDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/VectorDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="452">
-              <caret line="40" column="46" lean-forward="true" selection-start-line="40" selection-start-column="46" selection-end-line="40" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/MapDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/HashTableDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/PrpertiesDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="336">
+              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/StackDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="768">
-              <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-              <folding>
-                <element signature="e#364#373#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/java/jdk-11.0.2_windows-x64_bin/jdk-11.0.2/lib/src.zip!/java.base/java/util/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="116" column="69" lean-forward="true" selection-start-line="116" selection-start-column="69" selection-end-line="116" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -153,17 +75,93 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="192">
+              <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/review/review001.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/HungerSingletonTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="360">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+              <folding>
+                <element signature="e#689#690#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/LazySingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T003.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1128">
+              <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/泛型/FanXing001.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+              <folding>
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#435#436#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/泛型/FanXing002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="e#278#279#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/泛型/Fanxing004.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#390#398#0" expanded="true" />
+                <element signature="e#449#457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/泛型/Fanxing003.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -173,6 +171,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -191,7 +190,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/Enumeration.java" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/EnumerationTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/BitSetDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/VecorDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/VectorDemo.java" />
@@ -199,6 +197,21 @@
         <option value="$PROJECT_DIR$/src/main/java/数据结构/MapDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/HashTableDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/数据结构/PrpertiesDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/泛型/FanXing.java" />
+        <option value="$PROJECT_DIR$/src/main/java/泛型/FanXing001.java" />
+        <option value="$PROJECT_DIR$/src/main/java/泛型/FanXing002.java" />
+        <option value="$PROJECT_DIR$/src/main/java/泛型/Fanxing003.java" />
+        <option value="$PROJECT_DIR$/src/main/java/泛型/Fanxing004.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/重写equalsHashcode/Equals001.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/T003二维数组查找.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/T002singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/单例模式/T002singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/T002singleton.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/HungerSingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/T003.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/T003.java" />
+        <option value="$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/LazySingletonTest.java" />
       </list>
     </option>
   </component>
@@ -217,11 +230,11 @@
   <component name="MavenRunner">
     <option name="jreName" value="11" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="2661" />
-    <option name="y" value="298" />
-    <option name="width" value="152" />
-    <option name="height" value="39" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -260,7 +273,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
@@ -268,7 +281,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
+              <item name="T001单例模式" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="剑指offer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_Java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -281,7 +301,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571669785040" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1571840617142" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -307,7 +327,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PrpertiesDemo">
+  <component name="RunManager" selected="Application.T003">
     <configuration name="HashTableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="数据结构.HashTableDemo" />
       <module name="剑指offer" />
@@ -360,12 +380,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VectorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数据结构.VectorDemo" />
+    <configuration name="T003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="剑指offer.T003" />
       <module name="剑指offer" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="数据结构.*" />
+          <option name="PATTERN" value="剑指offer.T001单例模式.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -374,19 +394,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VectorDemo" />
       <item itemvalue="Application.StackDemo" />
       <item itemvalue="Application.MapDemo" />
       <item itemvalue="Application.HashTableDemo" />
       <item itemvalue="Application.PrpertiesDemo" />
+      <item itemvalue="Application.T003" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T003" />
         <item itemvalue="Application.PrpertiesDemo" />
         <item itemvalue="Application.HashTableDemo" />
         <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.StackDemo" />
-        <item itemvalue="Application.VectorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -401,18 +421,18 @@
       <option name="presentableId" value="Default" />
       <updated>1571402594234</updated>
       <workItem from="1571402599217" duration="3085000" />
-      <workItem from="1571452513754" duration="18597000" />
+      <workItem from="1571452513754" duration="34013000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21682000" />
+    <option name="totallyTimeSpent" value="37098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18070363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -421,7 +441,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298647" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29864725" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.29864725" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39958376" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,7 +450,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.3298647" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.29864725" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3298647" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -507,13 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
           <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -604,11 +617,110 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/数据结构/PrpertiesDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="336">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/泛型/Fanxing003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/泛型/FanXing001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/泛型/FanXing002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/泛型/Fanxing004.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#390#398#0" expanded="true" />
+            <element signature="e#449#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/重写equalsHashcode/Equals001.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/T002singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/HungerSingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+          <folding>
+            <element signature="e#689#690#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T003.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1128">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/剑指offer/T001单例模式/LazySingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
