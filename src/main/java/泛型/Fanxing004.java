@@ -1,6 +1,6 @@
 package 泛型;
 
-import com.sun.org.apache.xpath.internal.operations.String;
+//import com.sun.org.apache.xpath.internal.operations.String;
 
 import java.util.ArrayList;
 
